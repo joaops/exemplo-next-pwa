@@ -1,0 +1,35 @@
+{
+    "name": "Exemplo Next PWA",
+    "short_name": "Exemplo Next PWA",
+    "description": "Exemplo de uma aplicação Next.js com PWA",
+    "author": "joaops",
+    "version": "0.1.0",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "256x256 128x128 64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "orientation": "portrait"
+}
