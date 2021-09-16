@@ -17,6 +17,7 @@ const Home = ({ data }) => {
                 <h2>PWA é um tipo aplicação híbrida entre um site e um aplicativo nativo, ao acessar o site pelo smartphone, irá aparecer uma alerta para instalar o site como aplicativo.</h2>
                 <h2>Olá Alexandre.</h2>
                 <h2>Olá Junior.</h2>
+                <h2>Teste 2</h2>
             </div>
         </>
     )
