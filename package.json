@@ -1,7 +1,12 @@
 {
     "name": "exemplo-next-pwa",
+    "description": "Exemplo de Configuração de uma Aplicação Next.js com PWA.",
     "version": "0.1.0",
-    "private": true,
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joaops/exemplo-next-pwa.git"
+    },
     "scripts": {
         "dev": "next dev",
         "build": "next build",

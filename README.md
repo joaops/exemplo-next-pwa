@@ -1,17 +1,18 @@
 # Exemplo Next PWA
 
-Exemplo Simples de uma aplicação Next.js com PWA
+Exemplo de Configuração de uma Aplicação Next.js com PWA.
 
 ## Executar o Projeto
 
-Para rodar execute o comando:
+Para executar em modo desenvolvedor, entre na pasta do projeto e execute o comando:
 ```bash
+cd exemplo-next-pwa
 npm run dev
 ```
 
-Ou
-
+Para executar em modo produção, entre na pasta do projeto, execute o comando de build e depois inicie o projeto:
 ```bash
+cd exemplo-next-pwa
 npm run build
 npm start
 ```
