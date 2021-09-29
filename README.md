@@ -2,6 +2,13 @@
 
 Exemplo de Configuração de uma Aplicação Next.js com PWA.
 
+## Instalar
+
+Clone o projeto com o comando:
+```bash
+git clone https://github.com/joaops/exemplo-next-pwa.git exemplo-next-pwa
+```
+
 ## Executar o Projeto
 
 Para executar em modo desenvolvedor, entre na pasta do projeto e execute o comando:
